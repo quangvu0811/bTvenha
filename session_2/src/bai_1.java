@@ -2,17 +2,20 @@ import java.util.Scanner;
 
 public class bai_1 {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.printf("nhap 1 so tu nhien :");
-        int number = scanner.nextInt();
+      Scanner scanner = new Scanner(System.in);
+        System.out.printf("nhap gia tri dau :");
+        int start = scanner.nextInt();
 
-        if(number %3 == 0 && number%5==0){
-            System.out.printf( number + "chia hết cho cả 3 và 5 :");
-        } else if ( number %3 == 0 && number % 5 !=0 ){
-            System.out.printf(number +" chi het cho 3") ;
-        } else if ( number %3 !=0 && number % 5 ==0){
-            System.out.printf(number + " chi chia het cho 5");
+        System.out.printf("nhap gia tri cuoi :");
+        int end = scanner.nextInt();
+
+        int total = 0 ;
+        for (int i = start ; i <= end ; i++ ){
+            if (i % 2 ==0){
+                total += i ;
+            }
         }
+        System.out.printf("tong khoang trang tu :" + start +  " den " + end + " la " + total);
     }
 
 }
