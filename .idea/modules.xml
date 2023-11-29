@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ITFresher_QuangVanTruong/ITFresher_QuangVanTruong.iml" filepath="$PROJECT_DIR$/ITFresher_QuangVanTruong/ITFresher_QuangVanTruong.iml" />
       <module fileurl="file://$PROJECT_DIR$/session/session.iml" filepath="$PROJECT_DIR$/session/session.iml" />
       <module fileurl="file://$PROJECT_DIR$/session_2/session_2.iml" filepath="$PROJECT_DIR$/session_2/session_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/session_3/session_3.iml" filepath="$PROJECT_DIR$/session_3/session_3.iml" />
