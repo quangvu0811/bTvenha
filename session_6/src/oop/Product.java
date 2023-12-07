@@ -3,7 +3,7 @@ import java.sql.SQLOutput;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.*;
-import java.util.*;
+
 public class Product {
     private String productId;
     private String productName;

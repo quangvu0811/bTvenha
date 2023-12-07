@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract/Abstract.iml" filepath="$PROJECT_DIR$/Abstract/Abstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/ITFresher_QuangVanTruong/ITFresher_QuangVanTruong.iml" filepath="$PROJECT_DIR$/ITFresher_QuangVanTruong/ITFresher_QuangVanTruong.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/session/session.iml" filepath="$PROJECT_DIR$/session/session.iml" />
@@ -9,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/session_3/session_3.iml" filepath="$PROJECT_DIR$/session_3/session_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/session_4/session_4.iml" filepath="$PROJECT_DIR$/session_4/session_4.iml" />
       <module fileurl="file://$PROJECT_DIR$/session_6/session_6.iml" filepath="$PROJECT_DIR$/session_6/session_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session_7/session_7.iml" filepath="$PROJECT_DIR$/session_7/session_7.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/sessionn1.iml" filepath="$PROJECT_DIR$/.idea/sessionn1.iml" />
     </modules>
   </component>

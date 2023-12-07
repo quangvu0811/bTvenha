@@ -61,6 +61,7 @@ public class Categories {
         if (currentIndex == 0) {
             this.catelogId = 1;
         } else {
+            /// kiem tra phan tu tu tang
             int max = arrCategories[0].getCatelogId();
             for (int i = 0; i < currentIndex; i++) {
                 if (max < arrCategories[i].getCatelogId()) {
