@@ -3,9 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Abstract/Abstract.iml" filepath="$PROJECT_DIR$/Abstract/Abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COLLECTIONS/COLLECTIONS.iml" filepath="$PROJECT_DIR$/COLLECTIONS/COLLECTIONS.iml" />
       <module fileurl="file://$PROJECT_DIR$/ITFresher_QuangVanTruong/ITFresher_QuangVanTruong.iml" filepath="$PROJECT_DIR$/ITFresher_QuangVanTruong/ITFresher_QuangVanTruong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore_01/javaCore_01.iml" filepath="$PROJECT_DIR$/javaCore_01/javaCore_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/session/session.iml" filepath="$PROJECT_DIR$/session/session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session_11/session_11.iml" filepath="$PROJECT_DIR$/session_11/session_11.iml" />
       <module fileurl="file://$PROJECT_DIR$/session_2/session_2.iml" filepath="$PROJECT_DIR$/session_2/session_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/session_3/session_3.iml" filepath="$PROJECT_DIR$/session_3/session_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/session_4/session_4.iml" filepath="$PROJECT_DIR$/session_4/session_4.iml" />
